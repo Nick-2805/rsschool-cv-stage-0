@@ -51,6 +51,7 @@ Nothing yet...
 - **University:**
   - D. Mendeleev University of Chemical Technology of Russia
 - **Courses:**
+  - [BrainsCloud](https://www.youtube.com/c/BrainsCloud)
   - [php720](https://php720.com/)
   - [learn.javascript](https://learn.javascript.ru/)
 
