@@ -3,3 +3,7 @@
 Markdown CV
 
 https://Nick-2805.github.io/rsschool-cv/cv
+
+CV#2. HTML, CSS & Git Basics
+
+https://GITHUB-USERNAME.github.io/rsschool-cv/
