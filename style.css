@@ -1,0 +1,118 @@
+body {
+  font-family: Montserrat, sans-serif;
+  background-color: black;
+  font-size: 18px;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  margin-bottom: 20px;
+}
+* {
+  box-sizing: border-box;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/*Сontainer*/
+
+.container {
+  margin: 0 auto;
+  width: 1000px;
+  line-height: 1.4;
+}
+
+.two__columns {
+    display: flex;
+}
+
+.mrg {
+  margin: 0 auto 40px;
+}
+
+.title {
+  font-size: 28px;
+}
+
+.subtitle {
+  font-size: 22px;
+}
+
+/*Block__left*/
+
+
+.block__left {
+  padding: 0 30px;
+  width: 36%;
+  color: #fecb00;
+  background-color: #202026;
+}
+
+.left {
+  color: white;
+}
+
+.about__text {
+  padding-right: 50px;
+}
+
+/*Block__right*/
+
+.block__right {
+   padding: 0 15px;
+  width: 64%;
+  background-color: white;
+}
+
+.right {
+  padding: 0 20px;
+}
+
+.person {
+  margin: 20px auto 55px;
+  text-align: center;
+}
+.person__title {
+  font-size: 44px;
+  font-weight: bold;
+}
+.person__subtitle {
+  font-size: 24px;
+}
+.code {
+  padding: 20px;
+  background-color: #f6f8fa;
+}
+
+/*Footer*/
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: .8rem;
+    color: #ffffff;
+    background-color: #505050;
+}
+
+footer a {
+    align-items: center;
+}
+footer .github__icon {
+    margin-right: 10px;
+}
+
+.my__github {
+    display: flex;
+    align-items: center;
+}
+
+
